@@ -1,0 +1,44 @@
+1. value : 'hello',-87.8
+   expressions : *,/,-,+
+
+2. Strings is a data type for a a sequence of characters,numbers. Strings can not be used for calculation (even if your string is just a number like ‘5’), you would have to convert it to a number data type first to perform math operations on it.
+   The string data type is primarily used for reading and writing data.
+   Variables are references that you create to refer to other values in your program later. 
+
+3. Describe three different data types.
+   1. Numeric : Numeric data type repsents the data which has numeric value. 
+      It can be integer,float,complex numbers. These values are defined as int,float and complex class.
+   2. Sequence Type : Sequence is ordered collection of similar or different data types . It includes 
+      String,list,tuple.
+   3. Boolean : Data Type with one of the two built in values, True or False.
+
+4. Expression is made of combination of values and operators. All this expression evaluate to a single value.
+
+5. Statements represent an action or command e.g print statements, assignment statements. e.g. 'hello',x=1
+   Expression is a combination of variables, operations and values that yields a result value. e.g. 5 * 5 # yields 25
+
+6. bacon = 22
+   bacon + 1
+   Ans : 23
+
+7. What should the values of the following two terms be?
+   'spam' + 'spamspam' 
+    Ans : 'spamspamspam'
+
+   'spam' * 3
+    Ans : 'spamspamspam'
+
+8. Why is eggs a valid variable name while 100 is invalid?
+   Variable name cannot start with a number .
+
+9. What three functions can be used to get the integer, floating-point number, or string
+   version of a value?
+   The int(),float() and str() functions can be used to get the integer, floating-point number, or string
+   version of a value.
+
+10.Why does this expression cause an error? How can you fix it?
+   'I have eaten' + 99 + 'burritos'
+
+    Ans : 'I have eaten' + str(99) + 'burritos' . Doing type casting would resolve the error.
+
+   
