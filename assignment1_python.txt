@@ -19,7 +19,7 @@
 
 6. bacon = 22
    bacon + 1
-   Ans : 23
+   Ans : It will not reassign the value. It would need an assignment statement like bacon = bacon +1.
 
 7. What should the values of the following two terms be?
    'spam' + 'spamspam' 
